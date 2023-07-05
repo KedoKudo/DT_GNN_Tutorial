@@ -1,0 +1,19 @@
+name: pygt_torch2
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - jupyterlab
+  - matplotlib
+  - ipympl
+  - lxml
+  - versioningit
+  - pre-commit
+  - pytest
+  - pip:
+    - torch
+    - torchvision
+    - torchaudio
+    - torch-geometric
+    - torch-geometric-temporal
