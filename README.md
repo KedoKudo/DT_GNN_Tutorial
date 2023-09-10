@@ -82,15 +82,14 @@ Although it is possible to read through the tutorials in any order, we recommend
 
 2. **PyTorch Geometric**:
    - `04_pytorch_geometric_intro.ipynb`: Dive into PyTorch Geometric, its utilities, and datasets.
-   - `06_node_classification.ipynb`: Tackle node classification tasks using GNNs.
-   - `07_graph_classification.ipynb`: Learn how to classify entire graphs with GNNs.
+   - `05_node_classification.ipynb`: Tackle node classification tasks using GNNs.
+   - `06_graph_classification.ipynb`: Learn how to classify entire graphs with GNNs.
 
 3. **Temporal Graph Networks**:
-   - `05_pytorch_geometric_temporal_intro.ipynb`: Grasp the core concepts of temporal graphs and their dynamics.
-   - `08_temporal_graphs.ipynb`: Harness PyTorch Geometric Temporal to model dynamic graphs, predicting events, and understanding temporal patterns.
+   - `07_pytorch_geometric_temporal_intro.ipynb`: Grasp the core concepts of temporal graphs and their dynamics.
 
 4. **Case Studies**:
-   - `09_traffic_prediction.ipynb`: A simple example of using GNN for traffic prediction.
+   - `08_traffic_prediction.ipynb`: A simple example of using GNN for traffic prediction.
 
 ## Datasets
 
