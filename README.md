@@ -44,7 +44,11 @@ Additional dependencies for the tutorial can be installed directly within the no
 
    ```bash
    conda env create -f environment.yml
+   pip install -r requirements.txt
    ```
+
+   > Due to how `pytorch-geometric-temporal` configures its build process, it cannot be part of the main environment file.
+   Thus, we need to install it separately via `pip`.
 
     > When using `micromamba` or `mambaforge`, double check the corresponding syntax from the official documentation. 
 

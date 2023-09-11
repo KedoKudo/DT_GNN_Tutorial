@@ -19,4 +19,3 @@ dependencies:
     - torchvision
     - torchaudio
     - torch-geometric
-    - torch-geometric-temporal
