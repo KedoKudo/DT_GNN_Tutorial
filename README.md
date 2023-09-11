@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KedoKudo/DT_GNN_Tutorial/blob/tree/main/notebooks/)
+
 # A Graph Neural Network Tutorial for Spatiotemporal Learning on Digital Twin Networks
 
 Welcome to the Graph Neural Network (GNN) tutorial using PyTorch, PyTorch Geometric, and PyTorch Geometric Temporal!
